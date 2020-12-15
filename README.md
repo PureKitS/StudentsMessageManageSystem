@@ -1,6 +1,6 @@
 #StudentsMessageManageSystem
 ##团队概述
-> 团队名称：PureK1t Dev
+> 团队名称：PureK1t Dev <br>
 > 团队成员：郝宏鑫
 
 ##成员信息
