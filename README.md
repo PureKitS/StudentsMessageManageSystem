@@ -1,12 +1,12 @@
 # StudentsMessageManageSystem
 ## 团队概述
 > 团队名称：PureK1t Dev <br>
-> 团队成员：郝宏鑫 <br>
+> 团队成员：XXX <br>
 
 ## 成员信息
 > 班级：软件3194 <br>
-> 姓名：郝宏鑫 <br>
-> 学号：3103193061 <br>	
+> 姓名：XXX <br>
+> 学号：0000000000 <br>	
 
 ## 开发课题
 > 学生信息管理系统 <br>
